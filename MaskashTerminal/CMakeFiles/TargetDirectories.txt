@@ -1,0 +1,3 @@
+/home/marscat/MaskashTerminal/CMakeFiles/edit_cache.dir
+/home/marscat/MaskashTerminal/CMakeFiles/rebuild_cache.dir
+/home/marscat/MaskashTerminal/CMakeFiles/MaskashTerminal.dir
